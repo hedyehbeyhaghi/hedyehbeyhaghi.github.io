@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: COMPSCI 611 - Advanced Algorithms
 nav_order: 1
 ---
 
@@ -44,3 +44,7 @@ Here is an approximate schedule for the course.
 | 23      | Linear Programming, Simplex Method     |
 | 24      | Analysis of the Simplex Method         |
 | 25      | Review                                 |
+
+---
+
+**This site is powered by [Just the Docs](https://just-the-docs.github.io/).**
