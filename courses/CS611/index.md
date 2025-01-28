@@ -14,36 +14,80 @@ Welcome to the Spring 2025 course webpage for **COMPSCI 611 - Advanced Algorithm
 - **Location:** Hasbrouck Lab Room 124
 - **Slides:** Slides will be posted on Canvas.
 
-## Schedule
-Here is an approximate schedule for the course.
+## Textbooks
 
-| Lecture | Topic                                   |
-|---------|----------------------------------------|
-| 1       | Preliminaries, Mergesort, Master Theorem |
-| 2       | Matrix Multiplication, Closest Pairs   |
-| 3       | Fast Fourier Transform                 |
-| 4       | Minimum Spanning Trees                 |
-| 5       | Subset Systems, Matroids               |
-| 6       | Cardinality Theorem and Examples       |
-| 7       | Bipartite Matchings, The Union-Find Problem |
-| 8       | Dynamic Programming, e.g., Knapsack Problem and Floyd-Warshall |
-| 9       | Dijkstra                               |
-| 10      | Seidel                                 |
-| 11      | Network Flow Part 1                    |
-| 12      | Network Flow Part 2                    |
-| 13      | Quicksort                              |
-| 14      | Karger's Algorithm                     |
-| 15      | Tail Inequalities and Lazy Select      |
-| 16      | Chernoff Bounds and Balls and Bins     |
-| 17      | More Balls and Bins, Polynomial Multiplication |
-| 18      | Approximation Algorithms               |
-| 19      | More Approximation Algorithms: TSP and Weighted Set Cover |
-| 20      | P versus NP, Approximations, Independent Set Problem |
-| 21      | NP Completeness                        |
-| 22      | More NP Completeness and Approximation Algorithms |
-| 23      | Linear Programming, Simplex Method     |
-| 24      | Analysis of the Simplex Method         |
-| 25      | Review                                 |
+### Recommended Resources:
+- **Slides and lecture notes** available on Canvas.
+- [Jeff Erickson’s Algorithms Textbook](https://jeffe.cs.illinois.edu/teaching/algorithms)
+
+### Additional References:
+- *Introduction to Algorithms* by Cormen, Leiserson, Rivest, and Stein.
+- *Algorithm Design* by Kleinberg and Tardos.
+- *Algorithms* by Dasgupta, Papadimitriou, and Vazirani.
+
+### Specific Topics in More Detail:
+- *Randomized Algorithms* by Motwani and Raghavan.
+- *Probability and Computing* by Mitzenmacher and Upfal.
+- *Approximation Algorithms* by Vazirani.
+
+## Assessment
+
+- **Homework (25% of grade):** Around **5 assignments**. 
+- **Quizzes (15% of grade):** Weekly **online quizzes**. 
+- **Exams (55% of grade):**  
+  - **Midterm (25%)** - March 11, 7-9 PM  
+  - **Final Exam (30%)** - May 12  
+- **Participation (5% of grade):** Based on **forum participation**, i.e., asking good questions and helping other students.
+
+### Late Policy:
+- **No late quizzes** allowed, but the lowest quiz score will be dropped.
+- **Homework late days:** Each student has up to **4 late days** for the semester.
+  - You **cannot use more than 2 late days per assignment**.
+  - Late days must be used in **integer increments** (1 or 2 days).
+  - **Beyond this policy, no late submissions will be accepted.**
+ 
+## Honesty and Collaboration Policy
+
+Violating any of the following rules **risks an automatic F**. Ask if you're unsure about any of the policies.
+
+- **Homework:** Collaborating with at most three other students on homework is allowed, and you must mention who you worked with. You are **not allowed** to use material from the web (or any material except that listed on the course page) or discuss the homework with anyone outside your collaboration group (aside from the instructor or TA).
+- **Quizzes:** No collaboration is allowed! However, you can consult course material.
+- **Exams:** Exams are **closed-book** and **no collaboration is allowed**.
+- **AI Tools:** The use of AI tools (e.g., ChatGPT) is **strictly prohibited** for solving homework, quizzes, or exams.   
+## Schedule
+
+Here's an approximate schedule for the course. **Note that this will be updated as we go along depending on our progress.**
+
+| Date       | Topic                                      | Events |
+|------------|-------------------------------------------|--------|
+| Jan 30 (Thu) | Preliminaries, Mergesort, Master Theorem | - |
+| Feb 4 (Tue)  | Matrix Multiplication, Closest Pairs     | - |
+| Feb 6 (Thu)  | Fast Fourier Transform                   | - |
+| Feb 11 (Tue) | Minimum Spanning Trees                   | - |
+| Feb 13 (Thu) | Subset Systems, Matroids                 | **HW1 Due** |
+| Feb 18 (Tue) | Cardinality Theorem and Examples         | - |
+| Feb 20 (Thu) | **No class** | - |
+| Feb 25 (Tue) | Bipartite Matchings, The Union-Find Problem | - |
+| Feb 27 (Thu) | Dynamic Programming: Knapsack, Floyd-Warshall | **HW2 Due** |
+| Mar 4 (Tue)  | Dijkstra’s Algorithm                     | - |
+| Mar 6 (Thu)  | Seidel’s Algorithm                       | - |
+| Mar 11 (Tue) | - | **Midterm (7-9 PM)** |
+| Mar 13 (Thu) | Network Flow Part 1                      | - |
+| Mar 25 (Tue) | Network Flow Part 2                      | - |
+| Mar 27 (Thu) | Quicksort                                | - |
+| Apr 1 (Tue)  | Karger’s Algorithm                       | - |
+| Apr 3 (Thu)  | Tail Inequalities and Lazy Select       | **HW3 Due** |
+| Apr 8 (Tue)  | Chernoff Bounds and Balls & Bins       | - |
+| Apr 10 (Thu) | More Balls & Bins, Polynomial Multiplication | - |
+| Apr 15 (Tue) | Approximation Algorithms                | - |
+| Apr 17 (Thu) | More Approximation: TSP & Weighted Set Cover | **HW4 Due** |
+| Apr 22 (Tue) | P vs. NP, Approximations, Independent Set | - |
+| Apr 24 (Thu) | NP Completeness                         | - |
+| Apr 29 (Tue) | More NP Completeness and Approximation Algorithms | - |
+| May 1 (Thu)  | Linear Programming, Simplex Method     | **HW5 Due** |
+| May 6 (Tue)  | Analysis of the Simplex Method         | - |
+| May 8 (Thu)  | Review | - |
+| May 12 (Mon) | - | **Final Exam** |
 
 ---
 
