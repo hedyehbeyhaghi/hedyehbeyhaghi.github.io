@@ -89,6 +89,7 @@ Here's an approximate schedule for the course. **Note that this will be updated 
 | May 6 (Tue)   | Analysis of the Simplex Method         | HW5 Due            |
 | May 8 (Thu)   | Review                                  | -                  |
 | May 12 (Mon)  | -                                        | **Final Exam**     |
+
 ---
 
 **This site is powered by [Just the Docs](https://just-the-docs.github.io/).**
