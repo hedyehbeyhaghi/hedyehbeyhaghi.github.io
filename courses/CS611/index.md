@@ -32,12 +32,12 @@ Welcome to the Spring 2025 course webpage for **COMPSCI 611 - Advanced Algorithm
 
 ## Assessment
 
-- **Homework (25% of grade):** Around **5 assignments**. 
+- **Homework (25% of grade):** Around **5 biweekly assignments**. 
 - **Quizzes (15% of grade):** Weekly **online quizzes**. 
 - **Exams (55% of grade):**  
   - **Midterm (25%)** - March 11, 7-9 PM  
   - **Final Exam (30%)** - May 12  
-- **Participation (5% of grade):** Based on **forum participation**, i.e., asking good questions and helping other students.
+- **Participation (5% of grade):** Based on **forum participation**, i.e., asking good questions and helping other students on Piazza.
 
 ### Late Policy:
 - **No late quizzes** allowed, but the lowest quiz score will be dropped.
@@ -61,32 +61,32 @@ Here's an approximate schedule for the course. **Note that this will be updated 
 | Date       | Topic                                      | Events |
 |------------|-------------------------------------------|--------|
 | Jan 30 (Thu) | Preliminaries, Mergesort, Master Theorem | - |
-| Feb 4 (Tue)  | Matrix Multiplication, Closest Pairs     | **HW1 Release** |
+| Feb 4 (Tue)  | Matrix Multiplication, Closest Pairs     | HW1 Release |
 | Feb 6 (Thu)  | Fast Fourier Transform                   | - |
 | Feb 11 (Tue) | Minimum Spanning Trees                   | - |
 | Feb 13 (Thu) | Subset Systems, Matroids                 | - |
-| Feb 18 (Tue) | Cardinality Theorem and Examples         | **HW1 Due, HW2 Release** |
+| Feb 18 (Tue) | Cardinality Theorem and Examples         | HW1 Due, HW2 Release |
 | Feb 20 (Thu) | - | - |
 | Feb 25 (Tue) | Bipartite Matchings, The Union-Find Problem | - |
 | Feb 27 (Thu) | Dynamic Programming: Knapsack, Floyd-Warshall | - |
-| Mar 4 (Tue)  | Dijkstra’s Algorithm                     | **HW2 Due** |
+| Mar 4 (Tue)  | Dijkstra’s Algorithm                     | HW2 Due |
 | Mar 6 (Thu)  | Seidel’s Algorithm                       | - |
 | Mar 11 (Tue) | - | **Midterm (7-9 PM)** |
 | Mar 13 (Thu) | Network Flow Part 1                      | - |
 | **Mar 16–23** | **Spring Break** | - |
-| Mar 25 (Tue) | Network Flow Part 2                      | **HW3 Release** |
+| Mar 25 (Tue) | Network Flow Part 2                      | HW3 Release |
 | Mar 27 (Thu) | Quicksort                                | - |
 | Apr 1 (Tue)  | Karger’s Algorithm                       | - |
 | Apr 3 (Thu)  | Tail Inequalities and Lazy Select       | - |
-| Apr 8 (Tue)  | Chernoff Bounds and Balls & Bins       | **HW3 Due, HW4 Release** |
+| Apr 8 (Tue)  | Chernoff Bounds and Balls & Bins       | HW3 Due, HW4 Release |
 | Apr 10 (Thu) | More Balls & Bins, Polynomial Multiplication | - |
 | Apr 15 (Tue) | Approximation Algorithms                | - |
 | Apr 17 (Thu) | More Approximation: TSP & Weighted Set Cover | - |
-| Apr 22 (Tue) | P vs. NP, Approximations, Independent Set | **HW4 Due, HW5 Release** |
+| Apr 22 (Tue) | P vs. NP, Approximations, Independent Set | HW4 Due, HW5 Release |
 | Apr 24 (Thu) | NP Completeness                         | - |
 | Apr 29 (Tue) | More NP Completeness and Approximation Algorithms | - |
 | May 1 (Thu)  | Linear Programming, Simplex Method     | - |
-| May 6 (Tue)  | Analysis of the Simplex Method         | **HW5 Due** |
+| May 6 (Tue)  | Analysis of the Simplex Method         | HW5 Due |
 | May 8 (Thu)  | Review | - |
 | May 12 (Mon) | - | **Final Exam** |
 ---
