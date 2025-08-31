@@ -88,7 +88,7 @@ Here's an approximate schedule for the course. **Note that this will be updated 
 | Dec 1 (Mon)   | Linear Programming, Simplex Method     | -                  |
 | Dec 3 (Wed)   | Analysis of the Simplex Method         | HW5 Due            |
 | Dec 8 (Mon)   | Review                                  | -                  |
-|   | -                                        | **Final Exam**     |
+| Dec 17 (Wed)  | -                                        | **Final Exam (3:30-5:30 PM)** |
 
 ---
 
