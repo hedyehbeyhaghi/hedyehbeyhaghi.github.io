@@ -1,0 +1,23 @@
+remote_theme: pmarsceill/just-the-docs
+title: "COMPSCI 690AG - Algorithmic Game Theory"
+description: "Algorithmic Game Theory Course Page"
+search_enabled: true
+
+nav_sort: case_insensitive
+aux_links:
+  "GitHub Repository":
+    - "https://github.com/hedyehbeyhaghi/courses"
+
+just_the_docs:
+  collections:
+    schedule:
+      name: "Schedule"
+    resources:
+      name: "Resources"
+    policies:
+      name: "Policies"
+  nav_order: 
+    - index.md
+    - schedule.md
+    - policies.md
+    - resources.md
